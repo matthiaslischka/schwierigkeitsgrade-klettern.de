@@ -1,0 +1,8 @@
+tbody td, thead th {
+    text-align: center;
+}
+
+th {
+    background-color: #b8d2fc;
+    color: black;
+} 
