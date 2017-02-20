@@ -1,3 +1,7 @@
+body{
+	background-image: url(../images/background.png), none;
+}
+
 tbody td, thead th {
     text-align: center;
 }

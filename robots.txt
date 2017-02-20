@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /images/
+Disallow: /favicon/
+Disallow: /script/
