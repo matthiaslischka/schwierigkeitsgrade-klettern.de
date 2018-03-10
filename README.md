@@ -1,11 +1,7 @@
 # schwierigkeitsgrade-klettern.de
-[![Build Status](https://travis-ci.org/matthiaslischka/schwierigkeitsgrade-klettern.de.svg?branch=master)](https://travis-ci.org/matthiaslischka/schwierigkeitsgrade-klettern.de)
+Got tired of googling the climbing grading systems and had a de-domain at hand for free.
 
-I got tired of googling the climbing grading systems whenever I wanted to compare them.
-And I had a .de domain available for free. That and because I can is why.
-
-
-I really appreciate any kind of [feedback](http://freesuggestionbox.com/pub/vnygnqb) or improvement.
+[Firebase](https://firebase.google.com) hosted [PWA](https://developers.google.com/web/progressive-web-apps/).
 
 
-![](/img/dontclimb.jpg?raw=true)
+![](/dontclimb.jpg?raw=true)
