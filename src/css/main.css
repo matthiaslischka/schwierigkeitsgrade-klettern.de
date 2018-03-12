@@ -4,6 +4,10 @@
    Author's custom styles
    ========================================================================== */
 
+ .jumbotron{
+	 margin-bottom: 0px;
+ }
+   
 table.stickyHeader thead {
     background-color: lightgray;
 }
